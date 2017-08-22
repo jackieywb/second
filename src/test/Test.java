@@ -13,6 +13,7 @@ public class Test {
     int x=9;
     int u=0;
     public void sum(){}
+    public void run(){}
     public static void main(String[] args) {
 
     }
