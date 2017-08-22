@@ -11,6 +11,7 @@ package test;
  */
 public class Test {
     int x=9;
+    int x=0;
     public static void main(String[] args) {
 
     }
