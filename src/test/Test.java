@@ -11,7 +11,8 @@ package test;
  */
 public class Test {
     int x=9;
-    int x=0;
+    int u=0;
+    public void sum(){}
     public static void main(String[] args) {
 
     }
